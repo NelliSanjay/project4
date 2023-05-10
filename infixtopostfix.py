@@ -4,7 +4,7 @@
 # Class to convert the expression
 class Conversion:
 
-	# Constructor to initialize the class variables
+	# Constructor to initialize the class variab
 	def __init__(self, capacity):
 		self.top = -1
 		self.capacity = capacity
